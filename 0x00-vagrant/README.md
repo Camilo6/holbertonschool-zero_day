@@ -1,4 +1,4 @@
 # holbertonschool-zero_day
 # My First Holberton Project
-## By: John Garcia
+## By: Camilo Torres
 ###This is where the fun begins
